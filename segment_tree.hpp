@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 /*
  * build: set f to x
  * modify: add qry to all values in [ql, qr)
